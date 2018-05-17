@@ -1,5 +1,6 @@
 # Swift4-simple-timer
 自学的一个swift小程序
+
 ![](demo.gif)
 
 特别感谢@allenwong
